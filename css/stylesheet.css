@@ -49,6 +49,14 @@ hr {
 	width: 50%;
 	float: left;
 }
+.col-25 {
+	width: 25%;
+	float: left;
+}
+.col-75 {
+	width: 75%;
+	float: left;
+}
 .project h3, .project p{
 	margin: .2em;
 }
