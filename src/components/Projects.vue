@@ -41,17 +41,17 @@
             {
                 id: 2,
                 name: "FreeCodeCamp",
-                description: "Worked on for a non-profit website, built a player generator, designed the logo, and created custom page layouts."
+                description: "Learned basic JS concepts in combination with a course from EDX uploaded from Stanford on cs50"
             },
             {
                 id: 3,
                 name: "Youtube Channel",
-                description: "Worked on for a non-profit website, built a player generator, designed the logo, and created custom page layouts."
+                description: "Built a YouTube channel with 100+ subscribers. On it, I uploaded heart touching music, along with lyrics, and a nice blurred background."
             },
             {
                 id: 4,
                 name: "CalPERS",
-                description: "Worked on for a non-profit website, built a player generator, designed the logo, and created custom page layouts."
+                description: "Worked in an Agile environment, utilizing the SCRUM methodology. Additionally, I have built several internal applications w/ PHP, MYSQL, and ReactJS to meet my clients demands"
             }
         ],
         section: "Skills",
